@@ -1,10 +1,8 @@
-int buttons[6];
-
+// piezo_player.ino
 int notes[4] = {262, 294, 330, 350};
 
 void setup()
 {
-  buttons[0] = 2;
   Serial.begin(9600);
 }
 
