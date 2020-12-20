@@ -19,5 +19,8 @@
   "homepage": "https://github.com/kamaal111/piezo_player#readme",
   "dependencies": {
     "johnny-five": "^2.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^2.2.1"
   }
 }
